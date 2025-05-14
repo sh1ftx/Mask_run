@@ -1,4 +1,11 @@
-# Mask_run
+```
+                   __         
+ )\/) _   _ ( _    )_)     _  
+(  ( (_( (   )\   / \ (_( ) ) 
+         _)                   
+```
+
+---
 
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![lua](https://img.shields.io/badge/linguagem-Lua-2c2d72?logo=lua)
